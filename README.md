@@ -10,7 +10,7 @@ Five convolutional layer groups, five max-pooling layer groups, one fully connec
 
 
 ## Dataset
-•	Dataset available: https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images. 
+Fashion MNIST dataset
 
 
 

@@ -26,4 +26,4 @@ You can upload 'Compuer_vision_fashion_mnist1.ipynb' in jupyter notebook or goog
 
 
 ## Project History
-This project was originally completed in 2021. The commit history has been adjusted to reflect the original dates of the work.
+This project was originally completed in 2022. The commit history has been adjusted to reflect the original dates of the work.
